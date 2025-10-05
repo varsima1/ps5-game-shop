@@ -1,0 +1,185 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "games": "Games",
+    "cart": "Cart",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "myOrders": "My Orders",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "Premium PS5 Game Accounts",
+    "subtitle": "Get instant access to your favorite games",
+    "browseCollection": "Browse Collection"
+  },
+  "features": {
+    "instantDelivery": {
+      "title": "Instant Delivery",
+      "description": "Get your account details immediately after purchase"
+    },
+    "secureSafe": {
+      "title": "Secure & Safe",
+      "description": "All accounts are verified and 100% safe to use"
+    },
+    "bestPrices": {
+      "title": "Best Prices",
+      "description": "Competitive pricing on all premium game accounts"
+    }
+  },
+  "products": {
+    "allGames": "All Games",
+    "featuredGames": "Featured Games",
+    "viewAll": "View All",
+    "showingResults": "Showing {{count}} results",
+    "noProducts": "No products found",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "primary": "Primary Account",
+    "secondary": "Secondary Account"
+  },
+  "categories": {
+    "all": "All",
+    "action": "Action",
+    "adventure": "Adventure",
+    "racing": "Racing",
+    "sports": "Sports",
+    "rpg": "RPG",
+    "shooter": "Shooter",
+    "other": "Other"
+  },
+  "filters": {
+    "categories": "Categories",
+    "priceRange": "Price Range",
+    "sortBy": "Sort By",
+    "filters": "Filters",
+    "popular": "Most Popular",
+    "priceLowToHigh": "Price: Low to High",
+    "priceHighToLow": "Price: High to Low",
+    "highestRated": "Highest Rated",
+    "newestFirst": "Newest First"
+  },
+  "cart": {
+    "shoppingCart": "Shopping Cart",
+    "emptyCart": "Your cart is empty",
+    "emptyCartMessage": "Add some games to get started!",
+    "browseProducts": "Browse Products",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "total": "Total",
+    "proceedToCheckout": "Proceed to Checkout",
+    "continueShopping": "Continue Shopping",
+    "items": "items",
+    "remove": "Remove"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Name",
+    "forgotPassword": "Forgot password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "signUp": "Sign up",
+    "welcomeBack": "Welcome Back",
+    "loginToAccount": "Login to access your account",
+    "createAccount": "Create Account",
+    "signUpToGetStarted": "Sign up to get started",
+    "loggingIn": "Logging in...",
+    "creatingAccount": "Creating account..."
+  },
+  "profile": {
+    "myProfile": "My Profile",
+    "updateProfile": "Update Profile",
+    "profileUpdated": "Profile updated successfully",
+    "settings": "Settings"
+  },
+  "orders": {
+    "myOrders": "My Orders",
+    "orderHistory": "Order History",
+    "orderNumber": "Order #",
+    "orderDate": "Date",
+    "status": "Status",
+    "orderTotal": "Total",
+    "viewDetails": "View Details",
+    "pending": "Pending",
+    "processing": "Processing",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "refunded": "Refunded",
+    "orderSummary": "Order Summary",
+    "paymentMethod": "Payment Method",
+    "deliveryInfo": "Delivery Info"
+  },
+  "product": {
+    "productDetails": "Product Details",
+    "description": "Description",
+    "whatsIncluded": "What's Included:",
+    "fullGameAccess": "Full game access",
+    "accountCredentials": "Account credentials",
+    "downloadInstructions": "Download instructions",
+    "lifetimeSupport": "Lifetime support",
+    "reviews": "Reviews",
+    "rating": "Rating",
+    "accountType": "Account Type"
+  },
+  "footer": {
+    "about": "About",
+    "aboutText": "Your trusted source for premium PS5 game accounts. Get instant access to the latest games.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "contactUs": "Contact Us",
+    "faq": "FAQ",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "refund": "Refund Policy",
+    "allRightsReserved": "All rights reserved"
+  },
+  "cta": {
+    "readyToStartGaming": "Ready to Start Gaming?",
+    "joinThousands": "Join thousands of satisfied customers",
+    "shopNow": "Shop Now"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please provide a valid email",
+    "minLength": "Minimum {{min}} characters",
+    "passwordMatch": "Passwords do not match",
+    "invalidCredentials": "Invalid credentials"
+  },
+  "notifications": {
+    "addedToCart": "Product added to cart",
+    "removedFromCart": "Product removed from cart",
+    "orderPlaced": "Order placed successfully",
+    "loginSuccess": "Login successful",
+    "logoutSuccess": "Logout successful",
+    "registrationSuccess": "Registration successful"
+  }
+}
